@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "612289261776",
+    "project_id": "liga-app-18rapp",
+    "storage_bucket": "liga-app-18rapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612289261776:android:e0539e32969f6cd865aed5",
+        "android_client_info": {
+          "package_name": "com.example.tu_liga_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLywm80Az0Rf2sfW3WChOtGFKsA9cCPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612289261776:android:9b0924a1e629ff5865aed5",
+        "android_client_info": {
+          "package_name": "com.rpdesarrollo.ligaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLywm80Az0Rf2sfW3WChOtGFKsA9cCPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
