@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:tu_liga_app/pages/add_equipos_page.dart';
+import 'package:tu_liga_app/pages/edit_equipos_page.dart';
 import 'package:tu_liga_app/pages/home_page.dart';
 import 'package:tu_liga_app/services/firebase_services.dart';
 import 'firebase_options.dart';
@@ -22,6 +23,7 @@ class MainApp extends StatelessWidget {
       routes: {
         '/': (context) => const Home(),
         '/add': (context) => const AddEquiposPage(),
+        '/edit': (context) => const EditEquiposPage(),
       },
     );
   }
